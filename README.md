@@ -2,7 +2,7 @@
 
 # 🇮🇹 Hey there, I'm Gianluca 👋
 
-### 🛡️ Cybersecurity Specialist & Developer 💻
+### 🔥 KAIZEN 🔥
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Offensive+Security;Web+Exploitation;Automation+%26+Development" alt="Typing SVG" /></a>
 
