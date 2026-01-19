@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🇮🇹 Hey there, I'm Gianluca 👋
+# 👋 Hey there, I'm Gianluca 👋
 
 ### 🔥 KAIZEN 🔥
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Offensive+Security;Web+Exploitation;Automation+%26+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Offensive+Security;Web+Exploitation;Automation+%26+Development;Ai+Red+Team;Web3+Attacks;" alt="Typing SVG" /></a>
 
 <p>
   <i>"Cybersecurity enthusiast and extremely curious mind. Exploring the world of offensive security, networking and development."</i>
@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-I am a cybersecurity enthusiast focused on **Offensive Security**, **Web Exploitation**, and **Automation**. I like to learn new concepts by building projects around them.
+I specialize in offensive security, web exploitation, and automation, and I enjoy mastering new concepts by applying them through hands-on project development.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Skills
 
 | **Category** | **Technologies** |
 |:---:|:---|
