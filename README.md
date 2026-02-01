@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Offensive+Security;Web+Exploitation;Automation+%26+Development;Ai+Red+Team;Web3+Attacks;" alt="Typing SVG" /></a>
 
 <p>
-  <i>"Cybersecurity enthusiast and extremely curious mind. Exploring the world of offensive security, networking and development."</i>
+  <i>"Cybersecurity enthusiast and curious mind. Exploring the world of offensive security, networking and development."</i>
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/gianlucabassani?label=Follow&style=social)](https://github.com/gianlucabassani)
@@ -19,7 +19,9 @@
 
 ### 👨‍💻 About Me
 
-I specialize in offensive security, web exploitation, and automation, and I enjoy mastering new concepts by applying them through hands-on project development.
+Hello World! I'm Gianluca Bassani, an offensive security enthusiast always looking for the next cool thing to learn. Here you'll find some of my projects and experiments!
+
+
 
 ---
 
