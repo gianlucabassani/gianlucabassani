@@ -41,6 +41,7 @@ Hello World! I'm Gianluca Bassani, an offensive security enthusiast always looki
 | Project | Description |
 | :--- | :--- |
 | [**Browsint**](https://github.com/gianlucabassani/browsint) | Automated reconnaissance crawler and scraper for OSINT data collection and reporting. |
+| [**Gosint**](https://github.com/gianlucabassani/gosint) | Browsint.. but in GO!! with directories/subdomains fuzzing capabilites and support to direct cli commands |
 | [**BlockCheat**](https://github.com/gianlucabassani/blockcheat) | Interactive EVM tool to bypass privacy, simulate transactions, and detect dangerous opcodes. |
 | [**Browphish**](https://github.com/gianlucabassani/browphish) | Modular toolkit for social engineering campaigns with web cloning and email support. |
 | [**IdaMCP**](https://github.com/AndreaGordanelli/IdaMCP) | Plugin leveraging AI models to speed up binary function analysis and vulnerability detection. |
