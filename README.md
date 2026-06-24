@@ -50,7 +50,7 @@ Hello World! I'm Gianluca Bassani, an offensive security enthusiast always looki
 
 | Project | Description |
 | :--- | :--- |
-| [**CyberGuard**](https://github.com/gianlucabassani/CyberGuard) | Terraform-based system to deploy Blue/Red team labs with Wazuh, Suricata, and Kali nodes on OpenStack. |
+| [**Nidavellir**](https://github.com/gianlucabassani/Nidavellir) | Forge scenarios and evaluate BYO AI agents. An orchestrator for compiling data-defined cyber arenas and enforcing agent actions via MCP gateways. |
 | [**ShellCy**](https://github.com/gianlucabassani/ShellCy) | A POSIX-compliant shell capable of I/O redirection, multi-stage pipelines, and tab completion. |
 
 ---
